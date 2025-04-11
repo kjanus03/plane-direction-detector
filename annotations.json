@@ -1,0 +1,252 @@
+{
+    "166": {
+        "direction": 8,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "57": {
+        "direction": null,
+        "contrail": true,
+        "plane_visible": false
+    },
+    "125": {
+        "direction": 10,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "153": {
+        "direction": 7,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "160": {
+        "direction": 10,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "70": {
+        "direction": 7,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "83": {
+        "direction": 10,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "131": {
+        "direction": 7,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "12": {
+        "direction": 11,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "107": {
+        "direction": 8,
+        "contrail": false,
+        "plane_visible": true
+    },
+    "133": {
+        "direction": 7,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "27": {
+        "direction": 8,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "96": {
+        "direction": null,
+        "contrail": true,
+        "plane_visible": false
+    },
+    "45": {
+        "direction": null,
+        "contrail": true,
+        "plane_visible": false
+    },
+    "35": {
+        "direction": 10,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "10": {
+        "direction": 10,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "51": {
+        "direction": 11,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "173": {
+        "direction": 7,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "112": {
+        "direction": null,
+        "contrail": false,
+        "plane_visible": false
+    },
+    "30": {
+        "direction": 8,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "111": {
+        "direction": 7,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "101": {
+        "direction": 7,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "141": {
+        "direction": null,
+        "contrail": false,
+        "plane_visible": false
+    },
+    "86": {
+        "direction": 11,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "90": {
+        "direction": 10,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "39": {
+        "direction": 7,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "138": {
+        "direction": 10,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "98": {
+        "direction": 7,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "73": {
+        "direction": null,
+        "contrail": true,
+        "plane_visible": false
+    },
+    "87": {
+        "direction": null,
+        "contrail": true,
+        "plane_visible": false
+    },
+    "24": {
+        "direction": null,
+        "contrail": false,
+        "plane_visible": true
+    },
+    "81": {
+        "direction": 11,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "151": {
+        "direction": 10,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "84": {
+        "direction": 9,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "121": {
+        "direction": 10,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "128": {
+        "direction": 10,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "50": {
+        "direction": 8,
+        "contrail": false,
+        "plane_visible": true
+    },
+    "3": {
+        "direction": 9,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "26": {
+        "direction": 8,
+        "contrail": false,
+        "plane_visible": true
+    },
+    "5": {
+        "direction": 10,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "106": {
+        "direction": 10,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "60": {
+        "direction": 10,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "32": {
+        "direction": 7,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "161": {
+        "direction": null,
+        "contrail": true,
+        "plane_visible": false
+    },
+    "108": {
+        "direction": 7,
+        "contrail": false,
+        "plane_visible": true
+    },
+    "163": {
+        "direction": 7,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "4": {
+        "direction": null,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "136": {
+        "direction": 7,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "21": {
+        "direction": 8,
+        "contrail": true,
+        "plane_visible": true
+    },
+    "18": {
+        "direction": 11,
+        "contrail": false,
+        "plane_visible": true
+    }
+}
